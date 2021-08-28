@@ -243,8 +243,8 @@
 						<div class="container mt-5 pt-5">
 							<div class="row align-items-center pt-5 mt-5 mt-lg-0 pt-lg-0">
 								<div class="col-lg-6">
-
-									<h1 class="font-weight-bold text-12 mb-2 appear-animation mobile-hide" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1200">Your business needs our Software SOLUTIONS!</h1>
+								<br><br><br>
+									<h1 class="font-weight-bold mb-2 appear-animation mobile-hide" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1200">Your business needs our Software SOLUTIONS!</h1>
 									
 									<h2 class="font-weight-medium text-9 mb-3 pb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1400"></h2>
 									
@@ -484,7 +484,7 @@
 								</div>
 							</div>
 							<div class="col-lg-6 text-center text-lg-left">
-								<img src="img/demos/seo-2/concept-2.png" class="img-fluid appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600" alt="" />
+								<img src="img/demos/seo-2/concept-11.png" class="img-fluid appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="600" alt="" />
 							</div>
 						</div>
 					</div>
