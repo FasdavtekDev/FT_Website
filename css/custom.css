@@ -1,1 +1,16 @@
-/* Add here all your CSS customizations */
+@media only screen and (max-width: 600px) {
+    .mobile-hide {
+      display:none;
+    }
+  }
+
+  #footer .footer-copyright {
+    background-color: #fa6800;
+    color: #ffffff;
+  }
+
+  #footer ul { 
+      color: #fff;
+  }
+
+ 

@@ -244,7 +244,7 @@
 							<div class="row align-items-center pt-5 mt-5 mt-lg-0 pt-lg-0">
 								<div class="col-lg-6">
 
-									<h1 class="font-weight-bold text-12 mb-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1200">Your business needs our Software SOLUTIONS!</h1>
+									<h1 class="font-weight-bold text-12 mb-2 appear-animation mobile-hide" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1200">Your business needs our Software SOLUTIONS!</h1>
 									
 									<h2 class="font-weight-medium text-9 mb-3 pb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1400"></h2>
 									
@@ -374,20 +374,20 @@
 										<div class="card border-0 custom-box-shadow-1 custom-border-radius-1 mb-4">
 											<div class="card-body text-center pt-5">
 												<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version=1.1 id=Layer_1 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x=0px y=0px class="st0" width="80" height="80" viewBox="0 0 93 106" enable-background="new 0 0 93 106" xml:space=preserve>
-<path d="M2,53c0,6.431,1.299,12.645,3.861,18.468l-0.916,0.402C2.327,65.919,1,59.57,1,53C1,27.52,21.363,6.791,46.394,6.791
-	c6.777,0,13.283,1.494,19.355,4.414L59.956,1.168l0.706-0.408l6.122,10.604l0.408,0.707l-11.31,6.53l-0.408-0.707l9.943-5.741
-	c-5.965-2.888-12.361-4.362-19.024-4.362C21.915,7.791,2,28.071,2,53z M87.751,33.922l-0.914,0.407
-	c2.621,5.88,3.95,12.162,3.95,18.67c0,24.929-19.915,45.209-44.394,45.209c-6.443,0-12.655-1.374-18.463-4.083l-0.351,0.753
-	l-0.376-0.651l10.604-6.122l-0.408-0.707l-10.604,6.122v0l-0.706,0.408l6.529,11.311l0.707-0.408l-5.604-9.706
-	c5.88,2.707,12.159,4.084,18.672,4.084c25.03,0,45.394-20.729,45.394-46.209C91.787,46.35,90.429,39.932,87.751,33.922z
-	 M29.216,24.958H63.57v57.51H29.216V24.958z M30.216,31.438H62.57v-5.48H30.216V31.438z M30.216,69.735H62.57V32.438H30.216V69.735z
-	 M30.216,81.468H62.57V70.735H30.216V81.468z M48.747,75.793c0,1.297-1.056,2.353-2.354,2.353s-2.354-1.056-2.354-2.353
-	s1.056-2.353,2.354-2.353S48.747,74.496,48.747,75.793z M47.747,75.793c0-0.746-0.607-1.353-1.354-1.353s-1.354,0.607-1.354,1.353
-	c0,0.746,0.607,1.353,1.354,1.353S47.747,76.54,47.747,75.793z M33.455,48.881l0.707,0.707l11.696-11.697l-0.707-0.707
-	L33.455,48.881z M38.718,36.926l-0.707-0.707l-4.556,4.555l0.707,0.707L38.718,36.926z"/>
-</svg></br><p></p>
+										<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+										<svg version=1.1 id=Layer_1 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x=0px y=0px class="st0" width="80" height="80" viewBox="0 0 93 106" enable-background="new 0 0 93 106" xml:space=preserve>
+										<path d="M2,53c0,6.431,1.299,12.645,3.861,18.468l-0.916,0.402C2.327,65.919,1,59.57,1,53C1,27.52,21.363,6.791,46.394,6.791
+											c6.777,0,13.283,1.494,19.355,4.414L59.956,1.168l0.706-0.408l6.122,10.604l0.408,0.707l-11.31,6.53l-0.408-0.707l9.943-5.741
+											c-5.965-2.888-12.361-4.362-19.024-4.362C21.915,7.791,2,28.071,2,53z M87.751,33.922l-0.914,0.407
+											c2.621,5.88,3.95,12.162,3.95,18.67c0,24.929-19.915,45.209-44.394,45.209c-6.443,0-12.655-1.374-18.463-4.083l-0.351,0.753
+											l-0.376-0.651l10.604-6.122l-0.408-0.707l-10.604,6.122v0l-0.706,0.408l6.529,11.311l0.707-0.408l-5.604-9.706
+											c5.88,2.707,12.159,4.084,18.672,4.084c25.03,0,45.394-20.729,45.394-46.209C91.787,46.35,90.429,39.932,87.751,33.922z
+											M29.216,24.958H63.57v57.51H29.216V24.958z M30.216,31.438H62.57v-5.48H30.216V31.438z M30.216,69.735H62.57V32.438H30.216V69.735z
+											M30.216,81.468H62.57V70.735H30.216V81.468z M48.747,75.793c0,1.297-1.056,2.353-2.354,2.353s-2.354-1.056-2.354-2.353
+											s1.056-2.353,2.354-2.353S48.747,74.496,48.747,75.793z M47.747,75.793c0-0.746-0.607-1.353-1.354-1.353s-1.354,0.607-1.354,1.353
+											c0,0.746,0.607,1.353,1.354,1.353S47.747,76.54,47.747,75.793z M33.455,48.881l0.707,0.707l11.696-11.697l-0.707-0.707
+											L33.455,48.881z M38.718,36.926l-0.707-0.707l-4.556,4.555l0.707,0.707L38.718,36.926z"/>
+										</svg></br><p></p>
 												<!-- <img src="img/demos/seo-2/icons/search.svg" class="img-fluid mb-4 pb-2" width="80" height="80" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-tertiary pb-2 mb-4'}" /> -->
 												<h4 class="text-color-dark font-weight-semibold mb-2">Web+Mobile app development</h4>
 												<p>Productive & engaging web solutions + Native, hybrid, and cross-platform mobile apps for consumer-facing and corporate environments. </p>
@@ -458,7 +458,7 @@
 								<hr>
 							</div>
 						</div>
-						<div class="row">
+						<div class="row mobile-hide">
 							<div class="col-lg-6 mb-5 mb-lg-0 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="450">
 								<h2 class="text-color-dark font-weight-semibold text-6 line-height-3 mb-0 pr-5 mr-5">Lorem ipsum dolor sit amet, consec tetur adipiscing elit.</h2>
 								<span class="d-block mb-3">THE EASIEST WAY</span>
@@ -609,80 +609,7 @@
 						<div class="custom-circle custom-circle-extra-small custom-circle-pos-46 appear-animation" data-appear-animation="expandIn" data-appear-animation-delay="800">
 							<div class="custom-bg-color-grey-2 rounded-circle w-100 h-100" data-plugin-float-element data-plugin-options="{'startPos': 'bottom', 'speed': 0.3, 'transition': true, 'transitionDuration': 1500}"></div>
 						</div>
-						<div class="row justify-content-center mb-3">
-							<div class="overflow-hidden mb-2">
-								<h2 class="font-weight-bold text-7 line-height-2 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="250" style="color: #2c2c30;">We Simplify Software Development Process									</h2>
-							</div>						</div>
-						<div class="container mt-0 mb-4">
-							<div class="row py-5">
-								<div class="col-lg-3 mb-5 mb-lg-0">
-									<h4 class="font-weight-bold text-5 ls-0 pb-1 mb-2" style="color:#2c2c30 ;">DISCOVER</h4>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc viverra lorem ipsum erat orci, ac auctor lacus tincidunt ut...</p>
-									<a href="demo-seo-2.html">
-										<img src="img/demos/seo-2/logo-footer.png" class="img-fluid" alt="FasDavTek" />
-									</a>
-								</div>
-								<div class="col-lg-3 mb-4 mb-lg-0">
-									<h4 class="font-weight-bold text-5 ls-0 pb-1 mb-2" style="color:#2c2c30 ;">PLANNING</h4>
-									<ul class="list list-unstyled">
-										<li class="mb-1">
-											<a href="#">Features</a>
-										</li>
-										<li class="mb-1">
-											<a href="#">Pages</a>
-										</li>
-										<li class="mb-1">
-											<a href="#">Portfolio</a>
-										</li>
-										<li class="mb-1">
-											<a href="#">About Us</a>
-										</li>
-										<li class="mb-1">
-											<a href="#">Contact Us</a>
-										</li>
-									</ul>
-								</div>
-								<div class="col-lg-3 mb-4 mb-lg-0">
-									<h4 class="font-weight-bold text-5 ls-0 pb-1 mb-2" style="color:#2c2c30 ;">DESIGN&DEVELOPMENT</h4>
-									<ul class="list list-unstyled">
-										<li class="mb-1">
-											<a href="enterprise-dev-services-detail.html">Seo Services</a>
-										</li>
-										<li class="mb-1">
-											<a href="enterprise-dev-services-detail.html">Email Marketing</a>
-										</li>
-										<li class="mb-1">
-											<a href="enterprise-dev-services-detail.html">Data Analysis</a>
-										</li>
-										<li class="mb-1">
-											<a href="enterprise-dev-services-detail.html">Digital Marketing</a>
-										</li>
-										<li class="mb-1">
-											<a href="enterprise-dev-services-detail.html">Social Media Marketing</a>
-										</li>
-									</ul>
-								</div>
-								<div class="col-lg-3">
-									<h4 class="font-weight-bold text-5 ls-0 pb-1 mb-2" style="color:#2c2c30 ;">DEVLIVER& MAINTAIN</h4>
-									<ul class="list list-unstyled">
-										<li class="mb-1">
-											Address: 123 Street Name, City, England
-										</li>
-										<li class="mb-1">
-											Phone: <a href="tel:+1234567890">(123) 456-7890</a>
-										</li>
-										<li class="mb-1">
-											Email: <a href="#">mail@example.com</a>
-										</li>
-									</ul>
-									<ul class="social-icons custom-social-icons-style-1">
-										<li class="social-icons-instagram"><a href="http://www.instagram.com/" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a></li>
-										<li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>
-										<li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
+						
 					</div>
 				</section>
 
