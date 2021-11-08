@@ -5,59 +5,49 @@
     </svg>
     <div class="container mt-0 mb-4">
         <div class="row py-5">
-            <div class="col-lg-3 mb-5 mb-lg-0">
+            <div class="col-lg-5 mb-5 mb-lg-0">
                 <h4 class="font-weight-bold text-color-white text-5 ls-0 pb-1 mb-2">ABOUT US</h4>
-                <p class="text-color-white text-1 ls-0 pb-1 mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc viverra lorem ipsum erat orci, ac auctor lacus tincidunt ut...</p>
-                <a href="demo-seo-2.html">
+                <p class="text-justify text-color-white text-4 pb-1 mb-2">Fasdavtek is a leading Information Technology (IT) solution provider. We focus on consultative and business requirements in the IT Services we offer. We strategically enhance our clients' businesses with the right IT solutions through diverse expertise and a deep understanding of the client's vision and requirements. Our core capabilities include Infrastructure and IT Consulting, software development and support.</p>
+                <a href="index.php">
                     
                 </a>
-            </div>
-            <div class="col-lg-3 mb-4 mb-lg-0">
-                <h4 class="font-weight-bold text-color-light text-5 ls-0 pb-1 mb-2">USEFUL LINKS</h4>
-                <ul class="list list-unstyled">
-                    <li class="mb-1">
-                        <a class="text-color-white text-1 ls-0 pb-1 mb-2" href="about-us.php">About Us</a>
-                    </li>
-                    <li class="mb-1">
-                        <a class="text-color-white text-1 ls-0 pb-1 mb-2" href="contact-us.php">Contact Us</a>
-                    </li>
-                </ul>
             </div>
             <div class="col-lg-3 mb-4 mb-lg-0">
                 <h4 class="font-weight-bold text-color-light text-5 ls-0 pb-1 mb-2">OUR SERVICES</h4>
                 <ul class="list list-unstyled">
                     <li>
-                        <a class="text-color-white text-1 ls-0 pb-1 mb-2" href="services.php">Overview</a>
+                        <a class="text-color-white text-3 ls-0 pb-1 mb-2" href="services.php">Overview</a>
                     </li>
                     <li>
-                        <a class="text-color-white text-1 ls-0 pb-1 mb-2" href="enterprise-dev.php">Enterprise Software Development</a>
+                        <a class="text-color-white text-3 ls-0 pb-1 mb-2" href="enterprise-dev.php">Enterprise Software Development</a>
                     </li>
                     <li>
-                        <a class="text-color-white text-1 ls-0 pb-1 mb-2" href="web-mobile.php">Web+Mobile app development</a>
+                        <a class="text-color-white text-3 ls-0 pb-1 mb-2" href="web-mobile.php">Web & Mobile app development</a>
                     </li>
 
                     <li>
-                        <a class="text-color-white text-1 ls-0 pb-1 mb-2" href="consultancy.php">Consultancy&Outsourcing</a>
+                        <a class="text-color-white text-3 ls-0 pb-1 mb-2" href="consultancy.php">IT Consulting</a>
                     </li>
                     <li>
-                        <a class="text-color-white text-1 ls-0 pb-1 mb-2" href="process-automation.php">Process Automation</a>
+                        <a class="text-color-white text-3 ls-0 pb-1 mb-2" href="it-infrastructure-security.php">IT Infrastructure & Security Solutions</a>
                     </li>
                     <li>
-                        <a class="text-color-white text-1 ls-0 pb-1 mb-2" href="voice-chat-bot.php">Voice/Chat bot Services</a>
+                        <a class="text-color-white text-3 ls-0 pb-1 mb-2" href="ivr.php">Voice/Chat bot Services</a>
                     </li>
                 </ul>
             </div>
-            <div class="col-lg-3">
+            <div class="col-lg-4">
                 <h4 class="font-weight-bold text-color-light text-5 ls-0 pb-1 mb-2">CONTACT US</h4>
                 <ul class="list list-unstyled">
-                    <li class="mb-1">
-                        Address: 123 Street Name, City, England
+                    <li class="mb-1 text-4">
+                        Address: 4, Winnipeg close off Panama, Maitama Abuja FCT, Nigeria.
                     </li>
-                    <li class="mb-1">
-                        Phone: <a class="text-color-white text-1 ls-0 pb-1 mb-2" href="tel:+1234567890">(123) 456-7890</a>
+                    <li class="mb-1 text-4">
+                        Phone: <a class="text-3 text-color-white text-1 ls-0 pb-1 mb-2" href="tel:+2349070127163">+2349070127163</a>,
+                        <a class="text-3 text-color-white text-1 ls-0 pb-1 mb-2" href="tel:+2348062360481">+2348062360481</a>
                     </li>
-                    <li class="mb-1">
-                        Email: <a class="text-color-white text-1 ls-0 pb-1 mb-2" href="#">mail@example.com</a>
+                    <li class="mb-1 text-4">
+                        Email: <a class="text-3 text-color-white text-1 ls-0 pb-1 mb-2" href="#">info@fasdavtek.com</a>
                     </li>
                 </ul>
             </div>
@@ -68,7 +58,7 @@
             <hr class="bg-color-light opacity-1 mb-0">
             <div class="row justify-content-center py-4">
                 <div class="col-auto">
-                    <p class="text-color-light text-3">FasDavTek © Copyright 2020. All Rights Reserved.</p>
+                    <p class="text-color-light text-4">FasDavTek © Copyright 2021. All Rights Reserved.</p>
                 </div>
             </div>
         </div>

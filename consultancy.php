@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
 
-		<title>Demo SEO 2 | Porto - Responsive HTML5 Template</title>	
+		<title>FasDavTek | Reaching beyond limits...</title>	
 
 		<meta name="keywords" content="HTML5 Template" />
 		<meta name="description" content="Porto - Responsive HTML5 Template">
@@ -20,7 +20,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
 
 		<!-- Web Fonts  -->
-		<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet" type="text/css">
 
 		<!-- Vendor CSS -->
 		<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
@@ -66,7 +66,7 @@
 							<div class="header-column">
 								<div class="header-row">
 									<div class="header-logo">
-										<a href="demo-seo-2.html">
+										<a href="index.php">
 											<img alt="Porto" width="126" height="33" src="img/demos/seo-2/logo.png">
 										</a>
 									</div>
@@ -94,9 +94,7 @@
 						<div class="custom-circle custom-circle-small custom-circle-pos-4 custom-circle-pos-4-4 appear-animation" data-appear-animation="expandIn" data-appear-animation-delay="1600">
 							<div class="custom-bg-color-grey-2 rounded-circle w-100 h-100" data-plugin-float-element data-plugin-options="{'startPos': 'bottom', 'speed': 0.6, 'transition': true, 'transitionDuration': 500}"></div>
 						</div>
-						<div class="custom-circle custom-circle-medium custom-circle-pos-5 custom-circle-pos-5-5 appear-animation" data-appear-animation="expandInWithBlur" data-appear-animation-delay="1050" data-appear-animation-duration="2s">
-							<div class="bg-color-secondary rounded-circle w-100 h-100" data-plugin-float-element data-plugin-options="{'startPos': 'top', 'speed': 0.2, 'transition': true, 'transitionDuration': 2000}"></div>
-						</div>
+						
 						<div class="custom-circle custom-circle-medium custom-circle-pos-6 custom-circle-pos-6-6 appear-animation" data-appear-animation="expandInWithBlur" data-appear-animation-delay="1200" data-appear-animation-duration="2s">
 							<div class="custom-bg-color-grey-2 rounded-circle w-100 h-100" data-plugin-float-element data-plugin-options="{'startPos': 'bottom', 'speed': 0.8, 'transition': true, 'transitionDuration': 500}"></div>
 						</div>
@@ -104,13 +102,28 @@
 							<div class="col">
 								<div class="overflow-hidden">
 									<ul class="breadcrumb d-block text-center appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="800">
-										<li><a href="demo-seo-2.html">Home</a></li>
-										<li class="active">Consultancy & Outsourcing</li>
+										<li><a href="index.php">Home</a></li>
+										<li class="active">IT Consulting</li>
 									</ul>
 								</div>
 								<div class="overflow-hidden mb-4">
-									<h1 class="d-block text-color-quaternary font-weight-bold text-center mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="1000">Consultancy & Outsourcing</h1>
+									<h1 class="d-block text-color-quaternary font-weight-bold text-center mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="1000">IT Consulting</h1>
 								</div>
+								<p class="text-justify">
+								Fasdavtek helps companies across the world in creating optimal digital environments aligned with the clients’ technical capacity, business requirements and clients’ expectations. Our approach to technology consulting involves us supporting businesses at different stages of software development and implementation projects. We manage full-cycle development of enterprise systems of any complexity thereby integrating them into business processes and IT infrastructures. We provide consulting by converting idea to technology thereby making the business digitalized; we evaluate the initial idea of the client and consider as well as advise on the most optimal tech stack for the actualization of the idea.
+								</p>
+								<p class="text-justify">
+								After this, we design the technology into project plan in order to carry out business analysis to align the validated idea with the actual business operations and draw out a reliable development and implementation plan.
+								</p>
+								<p class="text-justify">
+								Then, this project plan is implemented by our team. We stick to the project plan and the selected engagement model; we design and configure custom software according to the approved requirements for the clients. Upon request from the clients, we provide a long-term strategy of post-deployment software maintenance and upgrade.
+								</p>
+								<p class="text-justify">
+								Fasdavtek consulting services span custom web and mobile development, software migration, integration and support. We also help clients set up DevOps practices, IT Infrastructure and security practices and provide effective project management.
+								</p>
+								<p class="text-justify">
+								Fasdavtek success stories testify to our IT consulting achievements. We strive to translate our consulting and development effort into real business outcomes, such as better system performance, more active users and overall client satisfaction.
+								</p>
 							</div>
 						</div>
 					</div>

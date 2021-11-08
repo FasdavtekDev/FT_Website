@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
 
-		<title>Demo SEO 2 | Porto - Responsive HTML5 Template</title>	
+		<title>FasDavTek | Reaching beyond limits...</title>	
 
 		<meta name="keywords" content="HTML5 Template" />
 		<meta name="description" content="Porto - Responsive HTML5 Template">
@@ -20,7 +20,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
 
 		<!-- Web Fonts  -->
-		<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet" type="text/css">
 
 		<!-- Vendor CSS -->
 		<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
@@ -66,7 +66,7 @@
 							<div class="header-column">
 								<div class="header-row">
 									<div class="header-logo">
-										<a href="demo-seo-2.html">
+										<a href="index.php">
 											<img alt="Porto" width="126" height="33" src="img/demos/seo-2/logo.png">
 										</a>
 									</div>
@@ -101,17 +101,26 @@
 							<div class="custom-bg-color-grey-2 rounded-circle w-100 h-100" data-plugin-float-element data-plugin-options="{'startPos': 'bottom', 'speed': 0.8, 'transition': true, 'transitionDuration': 500}"></div>
 						</div>
 						<div class="row py-5 mb-5 mt-2 p-relative z-index-1">
-							<div class="col">
+							<div class="col-lg-4">
+							</div>	
+							<div class="col-lg-6">
 								<div class="overflow-hidden">
-									<ul class="breadcrumb d-block text-center appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="800">
-										<li><a href="demo-seo-2.html">Home</a></li>
+									<ul class="breadcrumb d-block appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="800">
+										<li><a href="index.php">Home</a></li>
 										<li class="active">Services</li>
 									</ul>
 								</div>
 								<div class="overflow-hidden mb-4">
-									<h1 class="d-block text-color-quaternary font-weight-bold text-center mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="1000">Services</h1>
+									<h1 class="d-block text-color-quaternary p30 font-weight-bold text-centerx mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="1000">Services</h1>
 								</div>
+								<h4 class="text-justify text-uppercase">◉ Web Applications and Services</h2>
+								<h4 class="text-justify text-uppercase">◉ Interactive Voice Response (IVR) development</h2>
+								<h4 class="text-justify text-uppercase">◉ Domain Hosting and Management</h2>
+								<h4 class="text-justify text-uppercase">◉ IT Infrastructure and Security Solutions</h2>
+								<h4 class="text-justify text-uppercase">◉ IT Consulting</h2>
 							</div>
+							<div class="col-lg-2">
+							</div>	
 						</div>
 					</div>
 				</section>

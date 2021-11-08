@@ -14,7 +14,7 @@
                         </li>
                         <li>
                             <a class="nav-link" href="about-us.php">
-                                About
+                                About Us
                             </a>
                         </li>
                         <li class="dropdown">
@@ -29,17 +29,16 @@
                                     <a class="nav-link" href="enterprise-dev.php">Enterprise Software Development</a>
                                 </li>
                                 <li>
-                                    <a class="nav-link" href="web-mobile.php">Web+Mobile app development</a>
-                                </li>
-
-                                <li>
-                                    <a class="nav-link" href="consultancy.php">Consultancy&Outsourcing</a>
+                                    <a class="nav-link" href="web-mobile.php">Web & Mobile app development</a>
                                 </li>
                                 <li>
-                                    <a class="nav-link" href="process-automation.php">Process Automation</a>
+                                    <a class="nav-link" href="ivr.php">Interactive Voice Response (IVR) Development</a>
                                 </li>
                                 <li>
-                                    <a class="nav-link" href="voice-chat-bot.php">Voice/Chat bot Services</a>
+                                    <a class="nav-link" href="it-infrastructure-security.php">IT Infrastructure & Security Solutions</a>
+                                </li>
+                                <li>
+                                    <a class="nav-link" href="consultancy.php">IT Consulting</a>
                                 </li>
                             </ul>
                         </li>
@@ -55,23 +54,7 @@
                 <i class="fas fa-bars"></i>
             </button>
         </div>
-        <div class="header-nav-features header-nav-features-no-border header-nav-features-lg-show-border order-1 order-lg-2">
-            <div class="header-nav-feature header-nav-features-search d-inline-flex">
-                <a href="#" class="header-nav-features-toggle" data-focus="headerSearch"><i class="fas fa-search header-nav-top-icon"></i></a>
-                <div class="header-nav-features-dropdown" id="headerTopSearchDropdown">
-                    <form role="search" action="page-search-results.html" method="get">
-                        <div class="simple-search input-group">
-                            <input class="form-control text-1" id="headerSearch" name="q" type="search" value="" placeholder="Search...">
-                            <span class="input-group-append">
-                                <button class="btn" type="submit">
-                                    <i class="fa fa-search header-nav-top-icon"></i>
-                                </button>
-                            </span>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
+        
     </div>
 </div>
 

@@ -2,7 +2,7 @@
 * Demo General Styles
 */
 h1, h2, h3, h4, h5, h6, p, a, span, input, strong, label {
-	font-family: "Poppins", sans-serif;
+	font-family: "Montserrat", sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -624,7 +624,7 @@ svg#curved-line-2 .circle {
 * Testimonials
 */
 .testimonial.custom-testimonial-style-1 blockquote p {
-	font-family: "Poppins", sans-serif;
+	font-family: "Montserrat", sans-serif;
 	font-style: normal;
 	font-size: 1em;
 	line-height: 2.2;

@@ -24,11 +24,11 @@
 }
 
 .custom-primary-font {
-	font-family: "Poppins", sans-serif !important;
+	font-family: "Montserrat", sans-serif !important;
 }
 
 h1, h2, h3, h4, h5, h6, a, p, span, li, input {
-	font-family: "Poppins", sans-serif;
+	font-family: "Montserrat", sans-serif;
 }
 
 h1 {
@@ -799,7 +799,7 @@ h4 {
 .custom-testimonial-blog-1 blockquote p {
 	font-size: 1.1em !important;
 	line-height: 1.8;
-	font-family: "Poppins", sans-serif !important;
+	font-family: "Montserrat", sans-serif !important;
 	font-weight: 500 !important;
 }
 

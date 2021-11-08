@@ -2,7 +2,7 @@
 @import "../config/imports";
 
 // Fonts
-$font-secondary: "Poppins", sans-serif;
+$font-secondary: "Montserrat", sans-serif;
 
 .body {
 	font-family: $font-secondary;
@@ -713,7 +713,7 @@ html[dir="rtl"] {
 			padding: side-values(45px 0 45px 40px);
 			blockquote {
 				p, h4 {
-					font-family: Poppins
+					font-family: Montserrat
 				}
 			}
 			.testimonial-author {

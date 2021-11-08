@@ -10,7 +10,7 @@ $color-dark: #1e1e1e;
 $color-light: #FFF;
 
 // DEMO FONT FAMILY
-$font-primary: 'Poppins', sans-serif;
+$font-primary: 'Montserrat', sans-serif;
 
 // RTL
 @include if-rtl() {
@@ -873,7 +873,7 @@ h4 {
     	p {
 		    font-size: 1.1em !important;
 		    line-height: 1.8;
-		    font-family: "Poppins", sans-serif !important;
+		    font-family: "Montserrat", sans-serif !important;
 		    font-weight: 500 !important;
     	}
     }

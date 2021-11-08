@@ -1,8 +1,15 @@
 /*
 * Demo Fonts
 */
-h1, h2, h3, h4, h5, h6, p, span, li, a, strong, input, textarea {
-	font-family: "Poppins", sans-serif;
+h1, h2, h3, h4, h5, h6, span, li, a, strong, input, textarea {
+	font-family: "Montserrat", sans-serif;
+	font-size: 14px;
+}
+
+p{
+	font-family: "Montserrat", sans-serif;
+	font-size:18px;
+	color: black;
 }
 
 @media (min-width: 1240px) {
@@ -619,10 +626,10 @@ html.sticky-header-active #header.header-transparent .header-body:not(.header-bo
 	top: 10px;
 	left: 12px;
 	font-size: 78px;
-	font-family: Poppins;
+	font-family: Montserrat;
 }
 .testimonial.testimonial-style-3.custom-testimonial-style-1 blockquote p {
-	font-family: "Poppins", sans-serif;
+	font-family: "Montserrat", sans-serif;
 }
 .testimonial.testimonial-style-3.custom-testimonial-style-1 .testimonial-author {
 	margin: 20px 0 0 0;

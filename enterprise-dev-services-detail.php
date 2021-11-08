@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
 
-		<title>Demo SEO 2 | Porto - Responsive HTML5 Template</title>	
+		<title>FasDavTek | Reaching beyond limits...</title>	
 
 		<meta name="keywords" content="HTML5 Template" />
 		<meta name="description" content="Porto - Responsive HTML5 Template">
@@ -20,7 +20,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
 
 		<!-- Web Fonts  -->
-		<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet" type="text/css">
 
 		<!-- Vendor CSS -->
 		<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">		<link rel="stylesheet" href="vendor/fontawesome-free/css/all.min.css">		<link rel="stylesheet" href="vendor/animate/animate.min.css">		<link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.min.css">		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">		<link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
@@ -60,7 +60,7 @@
 							<div class="header-column">
 								<div class="header-row">
 									<div class="header-logo">
-										<a href="demo-seo-2.html">
+										<a href="index.php">
 											<img alt="Porto" width="126" height="33" src="img/demos/seo-2/logo.png">
 										</a>
 									</div>
@@ -73,7 +73,7 @@
 											<nav class="collapse">
 												<ul class="nav nav-pills" id="mainNav">
 													<li>
-														<a class="nav-link" href="demo-seo-2.html">
+														<a class="nav-link" href="index.php">
 															Home
 														</a>
 													</li>
@@ -153,7 +153,7 @@
 							<div class="col">
 								<div class="overflow-hidden">
 									<ul class="breadcrumb d-block text-center appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="800">
-										<li><a href="demo-seo-2.html">Home</a></li>
+										<li><a href="index.php">Home</a></li>
 										<li class="active">Services</li>
 									</ul>
 								</div>
@@ -414,7 +414,7 @@
 						<div class="col-lg-3 mb-5 mb-lg-0">
 							<h4 class="font-weight-bold text-color-light text-5 ls-0 pb-1 mb-2">ABOUT US</h4>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc viverra lorem ipsum erat orci, ac auctor lacus tincidunt ut...</p>
-							<a href="demo-seo-2.html">
+							<a href="index.php">
 								<img src="img/demos/seo-2/logo-footer.png" class="img-fluid" alt="Demo SEO 2" />
 							</a>
 						</div>

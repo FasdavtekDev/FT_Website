@@ -5,6 +5,6 @@ A simple, interactive resource that can be used to provide a virtual tour of you
 
 [Article on CodyHouse](https://codyhouse.co/gem/360-degrees-product-viewer/)
 
-[Demo](https://codyhouse.co/demo/360-degrees-product-viewer/index.html)
+[Demo](https://codyhouse.co/demo/360-degrees-product-viewer/index.php)
  
 [Terms](https://codyhouse.co/terms/)

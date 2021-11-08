@@ -1,9 +1,9 @@
 a, span, p, b, strong, li, h1, h2, h3, h4, h5, h6 {
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .custom-font-primary {
-	font-family: 'Poppins', sans-serif !important;
+	font-family: 'Montserrat', sans-serif !important;
 }
 
 .custom-font-secondary {

@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
 
-		<title>Demo SEO 2 | Porto - Responsive HTML5 Template</title>	
+		<title>FasDavTek | Reaching beyond limits...</title>	
 
 		<meta name="keywords" content="HTML5 Template" />
 		<meta name="description" content="Porto - Responsive HTML5 Template">
@@ -20,7 +20,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
 
 		<!-- Web Fonts  -->
-		<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet" type="text/css">
 
 		<!-- Vendor CSS -->
 		<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
@@ -66,7 +66,7 @@
 							<div class="header-column">
 								<div class="header-row">
 									<div class="header-logo">
-										<a href="demo-seo-2.html">
+										<a href="index.php">
 											<img alt="Porto" width="126" height="33" src="img/demos/seo-2/logo.png">
 										</a>
 									</div>
@@ -104,7 +104,7 @@
 							<div class="col">
 								<div class="overflow-hidden">
 									<ul class="breadcrumb d-block text-center appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="800">
-										<li><a href="demo-seo-2.html">Home</a></li>
+										<li><a href="index.php">Home</a></li>
 										<li class="active">Contact Us</li>
 									</ul>
 								</div>
@@ -123,20 +123,20 @@
 					<div class="container pb-2 mb-4">
 						<div class="row justify-content-center">
 							<div class="col-md-10 col-lg-6 mb-5 mb-lg-0">
-								<div class="overflow-hidden mb-1">
-									<h2 class="text-color-dark font-weight-semibold text-6 line-height-3 mb-0 pr-5 mr-5 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="1200">Free Website Audit and Free Proposal</h2>
-								</div>
+								<!-- <div class="overflow-hidden mb-1">
+									<h2 class="text-color-dark text-justify font-weight-semibold text-5 line-height-3 mb-0 pr-5 mr-5 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="1200">Reaching Beyond Limits to provide effective IT Services at your easy reach.</h2>
+								</div> -->
 								<div class="overflow-hidden mb-3">
-									<span class="d-block mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="1400">CONTACT US TODAY</span>
+									<!-- <span class="text-justify d-block mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="1400">Reaching Beyond Limits to provide effective IT Services at your easy reach.</span> -->
 								</div>
-								<p class="lead pr-5 mb-4 pb-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1600">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet libero id nisi euismod, sed porta est consectetur.</p>
+								<!-- <p class="lead pr-5 mb-4 pb-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1600">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet libero id nisi euismod, sed porta est consectetur.</p> -->
 								<div class="feature-box align-items-center mb-4 pb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1800">
 									<div class="feature-box-icon custom-feature-box-icon-size-1 bg-color-secondary top-0">
 										<i class="icon-globe icons position-relative"></i>
 									</div>
 									<div class="feature-box-info">
 										<h4 class="font-weight-bold line-height-1 custom-font-size-1 mb-1">Address</h4>
-										<p class="mb-0">123 Street Name, City, England</p>
+										<p class="mb-0">4, Winnipeg close off Panama, Maitama Abuja FCT, Nigeria</p>
 									</div>
 								</div>
 								<div class="feature-box align-items-center mb-4 pb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="2000">
@@ -145,7 +145,7 @@
 									</div>
 									<div class="feature-box-info">
 										<h4 class="font-weight-bold line-height-1 custom-font-size-1 mb-1">Phone</h4>
-										<p class="mb-0"><a href="tel:+1234567890" class="custom-text-color-grey-1">(123) 456-7890</a> / <a href="tel:+1234567890" class="custom-text-color-grey-1">(123) 456-7890</a></p>
+										<p class="mb-0"><a href="tel:+2349070127163" class="custom-text-color-grey-1">+2349070127163</a> / <a href="tel:+2348062360481" class="custom-text-color-grey-1">+2348062360481</a></p>
 									</div>
 								</div>
 								<div class="feature-box align-items-center appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="2200">
@@ -154,7 +154,7 @@
 									</div>
 									<div class="feature-box-info">
 										<h4 class="font-weight-bold line-height-1 custom-font-size-1 mb-1">E-mail</h4>
-										<p class="mb-0"><a href="mailto:maile@example.com" class="custom-text-color-grey-1">mail@example.com</a></p>
+										<p class="mb-0"><a href="mailto:info@fasdavtek.com" class="custom-text-color-grey-1">info@fasdavtek.com</a></p>
 									</div>
 								</div>
 							</div>
@@ -162,7 +162,7 @@
 								<div class="card border-0 custom-border-radius-1 box-shadow-1 p-2">
 									<div class="card-body p-4 z-index-1">
 										<h4 class="text-color-dark font-weight-semibold text-5 line-height-3 ls-0 mb-1 mt-2 pr-5 mr-5">Send Us a Message</h4>
-										<p class="pb-2 mb-4">Pellentesque ultricies nibh gravida, accumsan libero luctus. </p>
+										<!-- <p class="pb-2 mb-4">Pellentesque ultricies nibh gravida, accumsan libero luctus. </p> -->
 
 										<form class="contact-form custom-form-style-1" action="php/contact-form.php" method="POST">
 											<div class="contact-form-success alert alert-success d-none mt-4">
@@ -202,43 +202,7 @@
 					</div>
 				</section>
 
-				<section class="section section-height-3 bg-color-secondary position-relative border-0 m-0">
-					<div class="container position-relative z-index-1 pt-2 pb-5 mt-3 mb-5">
-						<div class="row justify-content-center mb-3">
-							<div class="col-md-8 col-lg-6 text-center">
-								<div class="overflow-hidden mb-2">
-									<h2 class="font-weight-bold text-color-light text-7 line-height-2 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="250">Get Your Free Instant SEO Audit Now</h2>
-								</div>
-								<div class="overflow-hidden mb-1">
-									<p class="lead custom-text-color-light-1 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="400">Improve your seo ranking with porto</p>
-								</div>
-								<div class="overflow-hidden mb-3">
-									<p class="custom-text-color-light-1 mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="550">Best SEO Features & Methodologies. Better SEO than your competitors</p>
-								</div>
-							</div>
-						</div>
-						<div class="row mb-3">
-							<div class="col">
-								<form class="custom-form-style-1 custom-form-simple-validation form-errors-light" action="/">
-									<div class="form-row mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">
-										<div class="form-group col-md-6 pr-md-2">
-											<input type="text" class="form-control" value="" placeholder="Enter URL" required />
-										</div>
-										<div class="form-group col-md-6 pl-md-2">
-											<input type="email" class="form-control" value="" placeholder="Enter E-mail Adress" required />
-										</div>
-									</div>
-									<div class="form-row justify-content-center appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="850">
-										<div class="form-group col-auto mb-0">
-											<button type="submit" class="btn btn-quaternary btn-rounded font-weight-bold px-5 py-3 text-3">CHECK NOW</button>
-										</div>
-									</div>
-								</form>
-							</div>
-						</div>
-					</div>
-				</section>
-
+<br>
 			</div> 
 
 			<?php include('layouts/footer.php') ?>

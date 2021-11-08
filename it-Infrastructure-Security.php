@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
 
-		<title>Demo SEO 2 | Porto - Responsive HTML5 Template</title>	
+		<title>FasDavTek | Reaching beyond limits...</title>	
 
 		<meta name="keywords" content="HTML5 Template" />
 		<meta name="description" content="Porto - Responsive HTML5 Template">
@@ -20,7 +20,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
 
 		<!-- Web Fonts  -->
-		<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet" type="text/css">
 
 		<!-- Vendor CSS -->
 		<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
@@ -66,7 +66,7 @@
 							<div class="header-column">
 								<div class="header-row">
 									<div class="header-logo">
-										<a href="demo-seo-2.html">
+										<a href="index.php">
 											<img alt="Porto" width="126" height="33" src="img/demos/seo-2/logo.png">
 										</a>
 									</div>
@@ -104,13 +104,22 @@
 							<div class="col">
 								<div class="overflow-hidden">
 									<ul class="breadcrumb d-block text-center appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="800">
-										<li><a href="demo-seo-2.html">Home</a></li>
-										<li class="active">Process Automation</li>
+										<li><a href="index.php">Home</a></li>
+										<li class="active">IT Infrastructure & Security Solutions</li>
 									</ul>
 								</div>
 								<div class="overflow-hidden mb-4">
-									<h1 class="d-block text-color-quaternary font-weight-bold text-center mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="1000">Process Automation</h1>
+									<h1 class="d-block text-color-quaternary font-weight-bold text-center mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="1000">IT Infrastructure & Security Solutions</h1>
 								</div>
+								<p class="text-justify">
+								Fasdavtek provides IT Infrastructure administration, monitoring, troubleshooting, optimization and security. We have been offering IT Infrastructure and Security Solutions since 2016, we help companies and businesses keep their IT Infrastructures fully operable, reliable and secured.
+								</p>
+								<p class="text-justify">
+								We provide IT Infrastructure consulting and management which entails planning and designing of your business IT Infrastructure; we evaluate your current IT infrastructure, elaborate on it and implement a comprehensive IT strategy in order to keep it fully operational.
+								</p>
+								<p class="text-justify">
+								Fasdavtek monitors her clients’ infrastructures against security threats, detects and mitigate vulnerabilities. We also improve efficiency of your security solutions. We engage in proactive monitoring of network equipment, web servers, websites and system performance thereby improving resource availability to up to 99.98%, we update operating systems and software to suit our clients’ requirements and constraints. We employ traffic filtering in real time to secure applications against hacking and DDoS attacks.
+								</p>
 							</div>
 						</div>
 					</div>

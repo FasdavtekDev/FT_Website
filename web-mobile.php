@@ -4,9 +4,9 @@
 
 		<!-- Basic -->
 		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-		<title>Demo SEO 2 | Porto - Responsive HTML5 Template</title>	
+		<title>FasDavTek | Reaching beyond limits...</title>
 
 		<meta name="keywords" content="HTML5 Template" />
 		<meta name="description" content="Porto - Responsive HTML5 Template">
@@ -20,7 +20,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
 
 		<!-- Web Fonts  -->
-		<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet" type="text/css">
 
 		<!-- Vendor CSS -->
 		<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
@@ -41,12 +41,12 @@
 		<link rel="stylesheet" href="vendor/rs-plugin/css/settings.css">
 		<link rel="stylesheet" href="vendor/rs-plugin/css/layers.css">
 		<link rel="stylesheet" href="vendor/rs-plugin/css/navigation.css">
-		
+
 		<!-- Demo CSS -->
 		<link rel="stylesheet" href="css/demos/demo-seo-2.css">
 
 		<!-- Skin CSS -->
-		<link rel="stylesheet" href="css/skins/skin-seo-2.css"> 
+		<link rel="stylesheet" href="css/skins/skin-seo-2.css">
 
 		<!-- Theme Custom CSS -->
 		<link rel="stylesheet" href="css/custom.css">
@@ -60,19 +60,19 @@
 		<div class="body">
 			<header id="header" class="header-transparent header-effect-shrink" data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyChangeLogo': true, 'stickyStartAt': 70, 'stickyHeaderContainerHeight': 70}">
 				<div class="header-body border-top-0 appear-animation" data-appear-animation="fadeIn">
-					<?php include('layouts/header-top.php') ?>
+					<?php include 'layouts/header-top.php'?>
 					<div class="header-container container">
 						<div class="header-row">
 							<div class="header-column">
 								<div class="header-row">
 									<div class="header-logo">
-										<a href="demo-seo-2.html">
+										<a href="index.php">
 											<img alt="Porto" width="126" height="33" src="img/demos/seo-2/logo.png">
 										</a>
 									</div>
 								</div>
 							</div>
-							<?php include('layouts/menu.php') ?>
+							<?php include 'layouts/menu.php'?>
 						</div>
 					</div>
 				</div>
@@ -83,7 +83,7 @@
 				<section class="page-header page-header-lg custom-bg-color-light-1 border-0 m-0">
 					<div class="container position-relative pt-5 pb-4 mt-5">
 						<div class="custom-circle custom-circle-wrapper custom-circle-big custom-circle-pos-1 custom-circle-pos-1-1 appear-animation" data-appear-animation="expandInWithBlur" data-appear-animation-delay="900" data-appear-animation-duration="2s">
-							<div class="bg-color-tertiary rounded-circle w-100 h-100" data-plugin-float-element data-plugin-options="{'startPos': 'bottom', 'speed': 0.5, 'transition': true, 'transitionDuration': 1000}"></div>	
+							<div class="bg-color-tertiary rounded-circle w-100 h-100" data-plugin-float-element data-plugin-options="{'startPos': 'bottom', 'speed': 0.5, 'transition': true, 'transitionDuration': 1000}"></div>
 						</div>
 						<div class="custom-circle custom-circle-medium custom-circle-pos-2 custom-circle-pos-2-2 appear-animation" data-appear-animation="expandInWithBlur" data-appear-animation-delay="1450" data-appear-animation-duration="2s">
 							<div class="custom-bg-color-grey-2 rounded-circle w-100 h-100" data-plugin-float-element data-plugin-options="{'startPos': 'bottom', 'speed': 0.2, 'transition': true, 'transitionDuration': 2000}"></div>
@@ -104,23 +104,37 @@
 							<div class="col">
 								<div class="overflow-hidden">
 									<ul class="breadcrumb d-block text-center appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="800">
-										<li><a href="demo-seo-2.html">Home</a></li>
+										<li><a href="index.php">Home</a></li>
 										<li class="active">Web Mobile App Development</li>
 									</ul>
 								</div>
 								<div class="overflow-hidden mb-4">
 									<h1 class="d-block text-color-quaternary font-weight-bold text-center mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="1000">Web Mobile App Development</h1>
+
 								</div>
+									<p class="text-justify">
+									Fasdavtek leverages modern IT approaches to web and mobile development, we merge front-end, back-end and acceptable architecture together to meet your business requirements and functionalities. We build applications whether web or mobile that function appropriately for your businesses.</p>
+									<p class="text-justify">
+									Successful web or mobile application strategy employed by Fasdavtek do not just look at your present technology footprint but we delve deeper to look at the provided application and envisage what will be its state in the future. Our solution architects and developers work alongside you to understand clearly your business requirements and purposes in order to identify reliable application using expertise and experienced view to advise you on how technology helps to place your business on the front end and have a cutting edge in the business world.
+									</p>
+									<p class="text-justify">
+									
+									Fasdavtek has highly skilled back-end and front-end developers and engineers to develop innovative web and mobile applications to function as exactly intended for your businesses.
+									</p>
+									<p class="text-justify">
+									Fasdavtek employs comprehensive testing best practices, our QA team work with your team to identify, fix and prevent issues in web and mobile development. We make use of manual testing, compatibility testing, performance testing, automation testing among others to have a comprehensive testing before roll out of your business web or mobile applications.
+
+									</p>
 							</div>
 						</div>
 					</div>
 				</section>
 
-			
 
-			</div> 
 
-			<?php include('layouts/footer.php') ?>
+			</div>
+
+			<?php include 'layouts/footer.php'?>
 
 		</div>
 
@@ -141,10 +155,10 @@
 		<script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
 		<script src="vendor/vide/jquery.vide.min.js"></script>
 		<script src="vendor/vivus/vivus.min.js"></script>
-		
+
 		<!-- Theme Base, Components and Settings -->
 		<script src="js/theme.js"></script>
-		
+
 		<!-- Current Page Vendor and Views -->
 		<script src="vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
 		<script src="vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
@@ -158,10 +172,10 @@
 
 		<!-- Theme Custom -->
 		<script src="js/custom.js"></script>
-		
+
 		<!-- Theme Initialization Files -->
 		<script src="js/theme.init.js"></script>
-	
+
 
 		<!-- Google Analytics: Change UA-XXXXX-X to be your site's ID. Go to http://www.google.com/analytics/ for more information.
 		<script>
@@ -169,7 +183,7 @@
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-		
+
 			ga('create', 'UA-12345678-1', 'auto');
 			ga('send', 'pageview');
 		</script>

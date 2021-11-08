@@ -249,7 +249,7 @@
 									<h2 class="font-weight-medium text-9 mb-3 pb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1400"></h2>
 									
 									<p class="custom-font-secondary custom-font-size-1 mb-4 pb-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1600" /> 
-									<p class="custom-text-color-grey-1 text-justify text-4 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="450">We deliver Enterprise Solutions, IT Infrastructure, IT Security and Consultancy services to global businesses, with 99% project delivery success. Our design-focused approach and project execution processes help in delivering the right solutions…</p>
+									<p class="custom-text-color-grey-1 text-justify text-4 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="450">We deliver enterprise solutions, outsourcing and Consultancy services to global businesses, with 99% project delivery success. Our design-focused approach and project execution processes help you to deliver the right solutions..</p>
 									<br><br><br>
 								</div>
 						
@@ -319,23 +319,18 @@
 							<div class="col-md-6 pb-5">
 								<img src="img/demos/seo-2/concept-1.png" class="img-fluid position-relative z-index-1 scale-1 pb-5 mb-5 ml-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750" data-appear-animation-duration="1500ms" alt="Demo SEO 2" />
 							</div>
-							
+
 						</div>
 					</div>
 				</section> -->
 
 				
-				
-				
 				<section class="section position-relative bg-color-light border-0 m-0">
-				
 					<svg class="custom-section-curved-top-1" width="100%" height="600px" xmlns="http://www.w3.org/2000/svg">
 					  	<path id="svg_1" d="m-12.66406,442.40068c352.72654,-76.36348 565.45337,5.45453 696.36219,19.99996c130.90882,14.54542 270.90852,-23.63632 367.27196,-47.27263c96.36344,-23.63631 379.99921,-154.54513 527.27163,-209.09047c147.27242,-54.54535 381.813,-92.55755 406.36076,-99.00598c12.27388,-3.22421 917.96684,-113.93032 715.00991,10.61478c-202.95693,124.5451 -210.46055,521.28714 -198.64021,540.29354c11.82034,19.0064 -2500.90899,-15.53962 -2500.0019,-16.36399c-0.90709,0.82437 -9.99798,-180.99343 -9.09089,-181.8178" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#f7f8f9"/>
 					  	<path id="svg_2" d="m-116.90461,507.88064c314.5448,-112.72704 523.63527,-21.81814 878.17999,12.72724c354.54471,34.54538 632.72595,-225.45407 978.17978,-294.54484c172.72691,-34.54538 291.36195,-62.7275 368.52007,-78.40952c77.15812,-15.68202 352.84215,-22.50036 359.66142,-7.04537c13.63854,30.90997 97.72734,614.54347 50.90961,639.99858c-46.81772,25.4551 -855.68236,4.54593 -1433.63569,1.81866c-577.95334,-2.72727 -1155.90718,-5.45466 -1155.45364,-5.45491" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#fbfcfc"/>
 					  	<path id="svg_3" d="m-115.93584,623.27542c234.54496,-132.72699 429.09001,-112.72703 678.1804,-83.63619c249.09039,29.09085 389.09011,30.90903 656.36228,-107.2725c267.27217,-138.18153 816.36193,-207.2723 1121.81584,-170.90873c305.45391,36.36356 -292.72666,-19.99996 -293.63778,-18.18228c71.36548,8.18218 627.05432,68.63506 626.48637,265.22584c-0.56794,196.59079 -20.11364,456.59134 -31.02284,531.13767c-10.90919,74.54633 -1561.82313,-36.3646 -1565.45948,-34.54642c-3.63636,1.81818 -1249.08831,-1.81818 -1248.18122,-1.81869c-0.90709,0.00051 39.09282,-234.54445 39.99992,-234.54496c-0.9071,0.00051 -4.54345,-76.36297 -3.63636,-76.36348" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
 					</svg>
-					
-					
 					<div class="container position-relative custom-negative-margin-1 z-index-3 pb-lg-5 mb-lg-3">
 						<div class="custom-circle custom-circle-medium custom-circle-pos-9 d-none d-md-block">
 							<div class="bg-color-secondary rounded-circle w-100 h-100" data-plugin-float-element data-plugin-options="{'startPos': 'top', 'speed': 0.3, 'transition': true, 'transitionDuration': 1000}"></div>
@@ -352,77 +347,83 @@
 						<div class="custom-circle custom-circle-extra-small custom-circle-pos-13 appear-animation" data-appear-animation="expandInWithBlur" data-appear-animation-delay="2300" data-appear-animation-duration="2s">
 							<div class="custom-bg-color-secondary rounded-circle w-100 h-100" data-plugin-float-element data-plugin-options="{'startPos': 'top', 'speed': 1, 'transition': true, 'transitionDuration': 1000}"></div>
 						</div>
-					
+
+						start here
 						<div class="row align-items-center">
-							
+
+						</div>
+						<div class="row align-items-center">
 							<div class="col-lg-7 pr-lg-5">
-							
 								<div class="row align-items-center">
+									
 									<div class="col-md-6">
 										<div style="margin-bottom: 15px;">
-											<a href="services.php" class="btn btn-gradient btn-rounded btn-sm font-weight-semibold px-5 py-3 text-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">Our Services</a>
+											<a href="services.html" class="btn btn-gradient btn-rounded font-weight-semibold px-5 py-3 text-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">What we do</a>
 
 										</div>
-
-							
 
 										<div class="card position-relative border-0 custom-box-shadow-1 custom-border-radius-1 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="850">
 											<div class="custom-dots-rect-1" style="background-image: url(img/demos/seo-2/dots-group.png);"></div>
 											<div class="card-body text-center pt-5">
 												<img src="img/demos/seo-2/icons/target.svg" class="img-fluid mb-4 pb-2" width="80" height="80" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-tertiary pb-2 mb-4'}" />
 												<h4 class="text-color-dark font-weight-semibold mb-2">Enterprise Software Development</h4>
-												<p class="text-justify">FasDavTek provides enterprise and custom software development for her clients all over the world by providing wide expert and professional advice required for software development.</p>
-												
-												<a href="enterprise-dev.php" class="text-color-tertiary font-weight-bold">READ MORE +</a>
+												<p class="text-justify">Sophisticated enterprise apps to streamline your business process, workflows and communication.</p>
+												<a href="enterprise-dev-services-detail.html" class="text-color-tertiary font-weight-bold">READ MORE +</a>
 											</div>
 										</div>
 										
 										<div class="card border-0 custom-box-shadow-1 custom-border-radius-1 mb-4">
 											<div class="card-body text-center pt-5">
-											
-												<img src="img/demos/seo-2/icons/search.svg" class="img-fluid mb-4 pb-2" width="80" height="80" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-tertiary pb-2 mb-4'}" />
+												<?xml version="1.0" encoding="utf-8"?>
+										<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+										<svg version=1.1 id=Layer_1 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x=0px y=0px class="st0" width="80" height="80" viewBox="0 0 93 106" enable-background="new 0 0 93 106" xml:space=preserve>
+										<path d="M2,53c0,6.431,1.299,12.645,3.861,18.468l-0.916,0.402C2.327,65.919,1,59.57,1,53C1,27.52,21.363,6.791,46.394,6.791
+											c6.777,0,13.283,1.494,19.355,4.414L59.956,1.168l0.706-0.408l6.122,10.604l0.408,0.707l-11.31,6.53l-0.408-0.707l9.943-5.741
+											c-5.965-2.888-12.361-4.362-19.024-4.362C21.915,7.791,2,28.071,2,53z M87.751,33.922l-0.914,0.407
+											c2.621,5.88,3.95,12.162,3.95,18.67c0,24.929-19.915,45.209-44.394,45.209c-6.443,0-12.655-1.374-18.463-4.083l-0.351,0.753
+											l-0.376-0.651l10.604-6.122l-0.408-0.707l-10.604,6.122v0l-0.706,0.408l6.529,11.311l0.707-0.408l-5.604-9.706
+											c5.88,2.707,12.159,4.084,18.672,4.084c25.03,0,45.394-20.729,45.394-46.209C91.787,46.35,90.429,39.932,87.751,33.922z
+											M29.216,24.958H63.57v57.51H29.216V24.958z M30.216,31.438H62.57v-5.48H30.216V31.438z M30.216,69.735H62.57V32.438H30.216V69.735z
+											M30.216,81.468H62.57V70.735H30.216V81.468z M48.747,75.793c0,1.297-1.056,2.353-2.354,2.353s-2.354-1.056-2.354-2.353
+											s1.056-2.353,2.354-2.353S48.747,74.496,48.747,75.793z M47.747,75.793c0-0.746-0.607-1.353-1.354-1.353s-1.354,0.607-1.354,1.353
+											c0,0.746,0.607,1.353,1.354,1.353S47.747,76.54,47.747,75.793z M33.455,48.881l0.707,0.707l11.696-11.697l-0.707-0.707
+											L33.455,48.881z M38.718,36.926l-0.707-0.707l-4.556,4.555l0.707,0.707L38.718,36.926z"/>
+										</svg></br><p></p>
+												<!-- <img src="img/demos/seo-2/icons/search.svg" class="img-fluid mb-4 pb-2" width="80" height="80" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-tertiary pb-2 mb-4'}" /> -->
 												<h4 class="text-color-dark font-weight-semibold mb-2">Web & Mobile app development</h4>
-												<p class="text-justify">We provide productive and engaging web solutions, Native, hybrid, and cross-platform mobile application for consumer facing and corporate environments. </p>
-												<a href="web-mobile.php" class="text-color-secondary font-weight-bold">READ MORE +</a>
+												<p class="text-justify">Productive & engaging web solutions + Native, hybrid, and cross-platform mobile apps for consumer-facing and corporate environments. </p>
+												<a href="enterprise-dev-services-detail.html" class="text-color-secondary font-weight-bold">READ MORE +</a>
 											</div>
 										</div>
 									</div>
-
 									<div class="col-md-6">
 										<div class="card position-relative border-0 custom-box-shadow-1 custom-border-radius-1 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
 											<div class="custom-dots-rect-2" style="background-image: url(img/demos/seo-2/dots-group-2.png);"></div>
 											<div class="card-body text-center pt-5">
 												<img src="img/demos/seo-2/icons/teaching.svg" class="img-fluid mb-4 pb-2" width="70" height="70" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-tertiary pb-2 mb-4'}" />
-												<h4 class="text-color-dark font-weight-semibold mb-2">IT Consultation</h4>
-												<p class="text-justify">We provide IT consulting that are top notch for your business in order to make it to be among the front runners in the digital business world.</p>
-												<a href="consultancy.php" class="text-color-tertiary font-weight-bold">READ MORE +</a>
+												<h4 class="text-color-dark font-weight-semibold mb-2">Consultation & Outsourcing</h4>
+												<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc viverra erat orci.</p>
+												<a href="contact.html" class="text-color-primary font-weight-bold">REQUEST CONSULTATION</a>
 											</div>
 										</div>
 									</div>
+									
 								</div>
 							</div>
 							
-							<div class="col-lg-5 pr-lg-5">
-								<div class="row align-items-center">
-									<div class="col-md-10">
-										<h2 class="text-color-dark font-weight-semibold text-4 line-height-3 pt-5 mt-5 mb-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300">We are your Technology partner for innovative and impactful digital solutions.</h2>
-										<span class="d-block mb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="450">THE EASIEST WAY</span>
-										<!-- <p class="lead appear-animation text-justify" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet libero id nisi euismod, sed porta est consectetur.</p> -->
-										<p class="mb-4 pb-2 appear-animation  text-justify" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750"> A successful offshore software application development company since 2016, providing a full range of website and mobile app development, games development, IoT, IVR and other IT services and solutions globally..</p>
-											
-											<div class="card position-relative border-0 custom-box-shadow-1 custom-border-radius-1 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
-												<div class="custom-dots-rect-2" style="background-image: url(img/demos/seo-2/dots-group-2.png);"></div>
-												<div class="card-body text-center pt-5">
-													<img src="img/demos/seo-2/icons/teaching.svg" class="img-fluid mb-4 pb-2" width="70" height="70" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-tertiary pb-2 mb-4'}" />
-													<h4 class="text-color-dark font-weight-semibold mb-2">IT Infrastructure & Security Solutions</h4>
-													<p class="text-justify">Fasdavtek provides IT Infrastructure and Security Solutions to businesses so as to make our clients have a business functioning effectively in the digital world.</p>
-													<a href="it-infrastructure-security.php" class="text-color-tertiary font-weight-bold">READ MORE +</a>
-													
-												</div>
-											</div>
-									</div>
+							<div class="col-lg-5 pt-lg-5 pl-lg-4 mt-lg-5">
+								<h2 class="text-color-dark font-weight-semibold text-4 line-height-3 pt-5 mt-5 mb-0 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300">We are your Technology partner for innovative and impactful digital solutions.</h2>
+								<span class="d-block mb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="450">THE EASIEST WAY</span>
+								<!-- <p class="lead appear-animation text-justify" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet libero id nisi euismod, sed porta est consectetur.</p> -->
+								<p class="mb-4 pb-2 appear-animation  text-justify" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750"> A successful offshore software application development company since 2016, providing a full range of website and mobile app development, games development, IoT, AR-VR and other IT services and solutions globally..</p>
+							</div>
 						</div>
+
+						ends here fsdfsdf
+					</div>
 				</section>
+
+				
 
 				<section class="section bg-color-light position-relative border-0 pt-0 m-0">
 					<svg class="custom-section-curved-top-3" width="100%" height="298" xmlns="http://www.w3.org/2000/svg">
@@ -444,7 +445,7 @@
 								<div class="row p-relative z-index-1">	
 									<div class="col-lg-3">
 									</div>
-									<div class="col-lg-7">
+									<div class="col-lg-6">
 										<div class="overflow-hidden mb-2">
 										<h3 class="d-block text-color-quaternary p30 font-weight-bold text-justify mb-0 appear-animation" data-appear-animation="maskUp" data-appear-animation-delay="1000">OUR SERVICES</h3>
 										</div>
@@ -453,9 +454,11 @@
 										<h5 class="text-justify text-uppercase">◉ Domain Hosting and Management</h5>
 										<h5 class="text-justify text-uppercase">◉ IT Infrastructure and Security Solutions</h5>
 										<h5 class="text-justify text-uppercase">◉ IT Consulting</h5>
-										
+										<div class="div text-justify">
+											<a href="services.php" class="btn btn-gradient btn-rounded font-weight-semibold px-4 py-2 text-3 appear-animation animated appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">OUR SERVICES</a>
+										</div>
 									</div>
-									<div class="col-lg-2">
+									<div class="col-lg-3">
 									</div>	
 								</div>
 							</div>
@@ -481,13 +484,13 @@
 									<div class="custom-circle custom-circle-extra-small custom-circle-pos-40" style="background-color: #e7955a;"></div>
 									<div class="circle-1 bg-color-secondary">
 										<div class="counter">
-											<strong class="text-color-light text-10 line-height-1" data-to="30" data-append="+">0</strong>
+											<strong class="text-color-light text-10 line-height-1" data-to="100" data-append="+">0</strong>
 											<label class="text-color-light text-4">Clients</label>
 										</div>
 									</div>
 									<div class="circle-2 bg-color-tertiary">
 										<div class="counter">
-											<strong class="text-color-light text-10 line-height-1" data-to="100" data-append="+">0</strong>
+											<strong class="text-color-light text-10 line-height-1" data-to="1000" data-append="+">0</strong>
 											<label class="text-color-light text-4">Projects</label>
 										</div>
 									</div>
@@ -498,13 +501,13 @@
 										</div>
 									</div>
 								</div>
-								
+	
 							</div>
 
 							<div class="col-lg-6">
-								<h2 class="text-color-dark font-weight-semibold text-6 line-height-3 mb-0 pr-5 mr-5">Satisfaction Guaranteed !!!</h2>
+								<h2 class="text-color-dark font-weight-semibold text-6 line-height-3 mb-0 pr-5 mr-5">Lorem ipsum dolor sit amet, consec tetur adipiscing elit.</h2>
 								<span class="d-block mb-3 pb-2">THE EASIEST WAY</span>
-								<p class="lead text-justify font-weight-normal pr-5 mb-4">Fasdavtek boasts of highly skilled and experienced professionals in her team that help in meeting business needs thereby bringing out result-driven projects for clients.</p>
+								<p class="lead font-weight-normal pr-5 mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet libero id nisi euismod, sed porta est consectetur.</p>
 								<div class="progress-bars custom-progress-bars-style-1 mt-4">
 									<div class="progress-label">
 										<span class="d-block text-3 mb-1">Better Performance</span>
@@ -545,9 +548,9 @@
 						<div class="row mt-5 mb-5">
 							<div class="col-lg-4 pr-lg-0">
 								<h2 class="text-color-dark font-weight-semibold text-6 line-height-3 mb-3">OUR CLIENTS</h2>
-								<p>Technology satisfaction guaranteed with us at Fasdavtek!!!</p>
+								<p>Technological satisfaction guaranteed.</p>
 							</div>
-							<div class="col-lg-8 pl-lg-4 text-justify">
+							<div class="col-lg-8 pl-lg-4">
 								<div class="owl-carousel custom-carousel-style-1 custom-carousel-dots-style-1" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '979': {'items': 2}, '1199': {'items': 2}}, 'margin': 0, 'loop': true, 'dots': true, 'nav': false, 'autoplay': true}">
 									<div>
 										<div class="testimonial testimonial-style-3 custom-testimonial-style-1">
@@ -578,19 +581,6 @@
 									<div>
 										<div class="testimonial testimonial-style-3 custom-testimonial-style-1">
 											<blockquote>
-												<p class="mb-0">ReferenceMe allows you to authenticate and validate the identities of your domestic hires as well as track their employment histories.</p>
-											</blockquote>
-											<div class="testimonial-author">
-												<div class="testimonial-author-thumbnail">
-													<img src="img/clients/refme.png" class="img-fluid rounded-circle" alt="">
-												</div>
-												<p><strong class="font-weight-semibold text-4 mb-1">REFERENCEME.NG</strong><span class="text-2">REFERENCE ME</span></p>
-											</div>
-										</div>
-									</div>
-									<div>
-										<div class="testimonial testimonial-style-3 custom-testimonial-style-1">
-											<blockquote>
 												<p class="mb-0">Dragnet Solutions Limited is broadly regarded as the leading provider of Computer Based Testing (CBT) solutions in Nigeria.</p>
 											</blockquote>
 											<div class="testimonial-author">
@@ -604,7 +594,7 @@
 									<div>
 										<div class="testimonial testimonial-style-3 custom-testimonial-style-1">
 											<blockquote>
-												<p class="mb-0">Access Bank plc, commonly known as Access Bank, is a Nigerian multinational commercial bank, owned by Access Bank Group.</p>
+												<p class="mb-0">Access Bank plc, commonly known as Access Bank, is a Nigerian multinational commercial bank, owned by Access Bank Group. It is licensed by the Central Bank of Nigeria, the national banking regulator.</p>
 											</blockquote>
 											<div class="testimonial-author">
 												<div class="testimonial-author-thumbnail">
@@ -618,7 +608,7 @@
 										<div class="testimonial testimonial-style-3 custom-testimonial-style-1">
 											<blockquote>
 												<p class="mb-0">
-												Sigma Pensions Limited (Sigma Pensions) is one of the top 5 Pension Fund Administrators (PFA) in Nigeria. With over 750,000 Retirement Savings Account (RSA) as at December 2020. </p>
+					Sigma Pensions Limited (Sigma Pensions) is one of the top 5 Pension Fund Administrators (PFA) in Nigeria. We currently manage Retirement Savings Account (RSA) for more than 750,000 contributors as at December 2020. </p>
 											</blockquote>
 											<div class="testimonial-author">
 												<div class="testimonial-author-thumbnail">
@@ -631,7 +621,7 @@
 									<div>
 										<div class="testimonial testimonial-style-3 custom-testimonial-style-1">
 											<blockquote>
-												<p class="mb-0">Kerildbert is a comprehensive supply chain management company providing transportation, warehousing,freight forwarding, removals and relocation and procurement.</p>
+												<p class="mb-0">Kerildbert is a comprehensive supply chain management company providing transportation, warehousing,freight forwarding, removals and relocation and procurement  services to a variety of global industries.</p>
 											</blockquote>
 											<div class="testimonial-author">
 												<div class="testimonial-author-thumbnail">

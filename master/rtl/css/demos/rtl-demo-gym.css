@@ -1,5 +1,5 @@
 h1, h2, h3, h4, h5, h6, a, p, span {
-	font-family: "Poppins", sans-serif;
+	font-family: "Montserrat", sans-serif;
 }
 
 h2 {
@@ -241,7 +241,7 @@ h4 {
 }
 
 #header .header-nav-main.header-nav-main-slide nav > ul > li > span > a {
-	font-family: "Poppins", sans-serif;
+	font-family: "Montserrat", sans-serif;
 	text-transform: none;
 	font-weight: 500;
 	font-size: 14px;
@@ -554,7 +554,7 @@ h4 {
 }
 
 .custom-testimonial-style-1 blockquote p {
-	font-family: "Poppins", sans-serif;
+	font-family: "Montserrat", sans-serif;
 	font-size: 17px;
 	font-weight: 300;
 	font-style: normal;

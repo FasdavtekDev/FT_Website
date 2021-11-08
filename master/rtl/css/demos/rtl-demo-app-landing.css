@@ -9,7 +9,7 @@
 * Demo Fonts
 */
 .custom-font-secondary {
-	font-family: "Poppins", sans-serif;
+	font-family: "Montserrat", sans-serif;
 }
 
 /*
@@ -135,7 +135,7 @@ svg circle.icons-circle {
 * Headings
 */
 h1, h2, h3, h4, h5, h6 {
-	font-family: "Poppins", sans-serif;
+	font-family: "Montserrat", sans-serif;
 	margin: 0;
 }
 
@@ -610,7 +610,7 @@ html:not(.sticky-header-active) #header .header-nav.header-nav-links nav > ul li
 .custom-home-intro p {
 	font-size: 1.15em;
 	font-weight: 400;
-	font-family: "Poppins", sans-serif;
+	font-family: "Montserrat", sans-serif;
 }
 
 .custom-home-intro p span {
@@ -698,7 +698,7 @@ html:not(.sticky-header-active) #header .header-nav.header-nav-links nav > ul li
 }
 
 .custom-counters-style-1 .counter span {
-	font-family: "Poppins", sans-serif;
+	font-family: "Montserrat", sans-serif;
 }
 
 .custom-counters-style-1 .counter span.counter-value {
