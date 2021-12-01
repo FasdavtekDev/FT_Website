@@ -121,7 +121,7 @@
 				
 					<div class="custom-section-svg pt-5 pb-5 pb-md-0 mb-5 mb-md-0"m>
 						
-						<div class="custom-section-svg-background appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="2300" style="background-image: url(img/demos/startup-agency/backgrounds/morphing-bg-1.jpg); background-size: cover; background-position: center;"></div>
+						<div class="custom-section-svg-background appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="2300" style="background-image: url(img/demos/startup-agency/backgrounds/morphing-bg-2.jpg); background-size: cover; background-position: center;"></div>
 						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 							 viewBox="0 0 2000 935" xml:space="preserve" data-appear-animation-svg="true" data-plugin-float-element-svg="true">
 							<linearGradient id="gradient_SVG_1_" class="custom-svg-linear-gradient" gradientUnits="userSpaceOnUse" x1="1608.6167" y1="668.754" x2="1197.4358" y2="257.5732">
@@ -369,7 +369,7 @@
 										<div class="card position-relative border-0 custom-box-shadow-1 custom-border-radius-1 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="850">
 											<div class="custom-dots-rect-1" style="background-image: url(img/demos/seo-2/dots-group.png);"></div>
 											<div class="card-body text-center pt-5">
-												<img src="img/demos/seo-2/icons/target.svg" class="img-fluid mb-4 pb-2" width="80" height="80" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-tertiary pb-2 mb-4'}" />
+												<img src="img/demos/seo-2/icons/com.svg" class="img-fluid mb-4 pb-2" width="80" height="80" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-tertiary pb-2 mb-4'}" />
 												<h4 class="text-color-dark font-weight-semibold mb-2">Enterprise Software Development</h4>
 												<p class="text-justify">FasDavTek provides enterprise and custom software development for her clients all over the world by providing wide expert and professional advice required for software development.</p>
 												
@@ -392,7 +392,7 @@
 										<div class="card position-relative border-0 custom-box-shadow-1 custom-border-radius-1 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
 											<div class="custom-dots-rect-2" style="background-image: url(img/demos/seo-2/dots-group-2.png);"></div>
 											<div class="card-body text-center pt-5">
-												<img src="img/demos/seo-2/icons/teaching.svg" class="img-fluid mb-4 pb-2" width="70" height="70" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-tertiary pb-2 mb-4'}" />
+												<img src="img/demos/seo-2/icons/case.svg" class="img-fluid mb-4 pb-2" width="70" height="70" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-tertiary pb-2 mb-4'}" />
 												<h4 class="text-color-dark font-weight-semibold mb-2">IT Consultation</h4>
 												<p class="text-justify">We provide IT consulting that are top notch for your business in order to make it to be among the front runners in the digital business world.</p>
 												<a href="consultancy.php" class="text-color-tertiary font-weight-bold">READ MORE +</a>
@@ -413,7 +413,7 @@
 											<div class="card position-relative border-0 custom-box-shadow-1 custom-border-radius-1 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
 												<div class="custom-dots-rect-2" style="background-image: url(img/demos/seo-2/dots-group-2.png);"></div>
 												<div class="card-body text-center pt-5">
-													<img src="img/demos/seo-2/icons/teaching.svg" class="img-fluid mb-4 pb-2" width="70" height="70" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-tertiary pb-2 mb-4'}" />
+													<img src="img/demos/seo-2/icons/server.svg" class="img-fluid mb-4 pb-2" width="70" height="70" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-tertiary pb-2 mb-4'}" />
 													<h4 class="text-color-dark font-weight-semibold mb-2">IT Infrastructure & Security Solutions</h4>
 													<p class="text-justify">Fasdavtek provides IT Infrastructure and Security Solutions to businesses so as to make our clients have a business functioning effectively in the digital world.</p>
 													<a href="it-infrastructure-security.php" class="text-color-tertiary font-weight-bold">READ MORE +</a>
